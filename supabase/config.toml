@@ -1,0 +1,4 @@
+project_id = "ztzbmixohmatidmlxjed"
+
+[functions.vehicle-diagnosis]
+verify_jwt = false
